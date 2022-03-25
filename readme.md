@@ -1,0 +1,1 @@
+Vytvořím aplikaci, která
